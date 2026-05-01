@@ -36,7 +36,14 @@
   navToggle.addEventListener('click', () => {
     const open = navMenu.classList.toggle('open');
     navToggle.classList.toggle('open', open);
+    navToggle.setAttribute('aria-expanded', open);
+    navToggle.setAttribute('aria-label', open ? 'Fechar menu' : 'Abrir menu');
     document.body.style.overflow = open ? 'hidden' : '';
+  });
+
+  // Close when tapping on the overlay background (outside the links)
+  navMenu.addEventListener('click', (e) => {
+    if (e.target === navMenu) closeMenu();
   });
 
   // Close on link click
@@ -47,6 +54,8 @@
   function closeMenu() {
     navMenu.classList.remove('open');
     navToggle.classList.remove('open');
+    navToggle.setAttribute('aria-expanded', 'false');
+    navToggle.setAttribute('aria-label', 'Abrir menu');
     document.body.style.overflow = '';
   }
 
