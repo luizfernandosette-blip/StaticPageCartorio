@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+
+  <!-- ═══════════════════════════════════════
+       Página Principal
+  ════════════════════════════════════════ -->
+  <url>
+    <loc>https://www.cartoriortdpjsabara.com.br/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.cartoriortdpjsabara.com.br/" />
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Cartório RTDPJ Sabará – Registro de Títulos e Documentos e Civil das Pessoas Jurídicas</image:title>
+      <image:caption>Serventia extrajudicial de Sabará – MG. Oficialata: Marília Campomizzi Bueno Gontijo.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ═══════════════════════════════════════
+       Âncoras / Seções (para indexação)
+  ════════════════════════════════════════ -->
+  <url>
+    <loc>https://www.cartoriortdpjsabara.com.br/#sobre</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cartoriortdpjsabara.com.br/#atribuicoes</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cartoriortdpjsabara.com.br/#servicos</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cartoriortdpjsabara.com.br/#processo</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.cartoriortdpjsabara.com.br/#contato</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+</urlset>
