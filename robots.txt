@@ -1,11 +1,11 @@
 # Robots.txt – Cartório RTDPJ Sabará
-# https://www.cartoriortdpjsabara.com.br/
+# https://www.rtdpjsabara.com.br/
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.cartoriortdpjsabara.com.br/sitemap.xml
+Sitemap: https://www.rtdpjsabara.com.br/sitemap.xml
 
 # Bloquear arquivos internos desnecessários
 Disallow: /css/

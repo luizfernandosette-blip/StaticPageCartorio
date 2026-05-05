@@ -10,11 +10,11 @@
        Página Principal
   ════════════════════════════════════════ -->
   <url>
-    <loc>https://www.cartoriortdpjsabara.com.br/</loc>
+    <loc>https://www.rtdpjsabara.com.br/</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.cartoriortdpjsabara.com.br/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.rtdpjsabara.com.br/" />
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
       <image:title>Cartório RTDPJ Sabará – Registro de Títulos e Documentos e Civil das Pessoas Jurídicas</image:title>
@@ -26,35 +26,35 @@
        Âncoras / Seções (para indexação)
   ════════════════════════════════════════ -->
   <url>
-    <loc>https://www.cartoriortdpjsabara.com.br/#sobre</loc>
+    <loc>https://www.rtdpjsabara.com.br/#sobre</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.cartoriortdpjsabara.com.br/#atribuicoes</loc>
+    <loc>https://www.rtdpjsabara.com.br/#atribuicoes</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://www.cartoriortdpjsabara.com.br/#servicos</loc>
+    <loc>https://www.rtdpjsabara.com.br/#servicos</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://www.cartoriortdpjsabara.com.br/#processo</loc>
+    <loc>https://www.rtdpjsabara.com.br/#processo</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.cartoriortdpjsabara.com.br/#contato</loc>
+    <loc>https://www.rtdpjsabara.com.br/#contato</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.75</priority>
